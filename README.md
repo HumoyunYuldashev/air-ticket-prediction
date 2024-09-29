@@ -1,1 +1,1 @@
-This project predicts air-tictet prices in Indian 
+This project predicts air-tictet prices in India
